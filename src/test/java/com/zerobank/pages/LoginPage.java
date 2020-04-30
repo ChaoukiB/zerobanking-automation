@@ -47,6 +47,7 @@ public class LoginPage extends BasePage{
         switch (element){
             case ConstantVariables.ERROR_MESSAGE:
                 Assert.assertEquals(expected, msg_error.getText());
+                Assert.assertTrue(msg_error.isDisplayed());
 
         }
     }
