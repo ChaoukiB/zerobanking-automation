@@ -20,6 +20,7 @@ public class PageObjects {
                 return new BasePage();
             case ConstantVariables.ACCOUNT_ACTIVITY:
                 return  new AccountActivityPage();
+
             default:
                 Assert.fail("There is no "+ pageName+"in this switch statement");
         }

@@ -15,11 +15,14 @@ public class LoginPage extends BasePage{
 
     @FindBy(xpath = "//input[@id='user_login']")
     public WebElement txt_login;
+
     @FindBy(id=  "user_password")
-    public WebElement  txt_password;    // ErrorMessage
+    public WebElement  txt_password;
+
     @FindBy(xpath=  "//input[@name='submit']")
     public WebElement  btn_login;
-    @FindBy(className = "alert alert-error")
+
+    @FindBy(xpath = "//form[@id='login_form']/div[@class='alert alert-error']")
     public WebElement  msg_error;
 
     public void enterValue(String field, String value){
@@ -30,6 +33,9 @@ public class LoginPage extends BasePage{
                 break;
             case ConstantVariables.PASSWORD:
                 txt_password.sendKeys(value);
+                break;
+            default:
+                Assert.fail("There is no such a " + field + " in this switch statement");
         }
     }
     public void clickButton(String button){
@@ -38,6 +44,8 @@ public class LoginPage extends BasePage{
             case ConstantVariables.LOGIN:
                 btn_login.click();
                 break;
+            default:
+                Assert.fail("There is no a " + button + " in this switch statement");
         }
 
     }
@@ -48,7 +56,9 @@ public class LoginPage extends BasePage{
             case ConstantVariables.ERROR_MESSAGE:
                 Assert.assertEquals(expected, msg_error.getText());
                 Assert.assertTrue(msg_error.isDisplayed());
-
+                break;
+            default:
+                Assert.fail("There is no such " + element + " in this switch statement");
         }
     }
 

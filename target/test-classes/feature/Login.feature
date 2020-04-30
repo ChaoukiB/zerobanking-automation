@@ -10,7 +10,7 @@ Feature: Login functionality
   When user enters "username" as "user_username" on "Login" page
    And user enters "password" as "user_password" on "Login" page
     And user clicks on "Login" button on "Login" page
-    Then "Title" should contain "Account summary" on "Account summary" page
+#    Then "Title" should contain "Account summary" on "Account summary" page
 
 
   Scenario: Users with wrong username and valid password should not be able to login.

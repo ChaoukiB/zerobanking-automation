@@ -19,7 +19,7 @@ public class AccountSummaryPage extends BasePage{
   public List<WebElement> hdr_accountType;
 
     @FindBy(xpath ="(//table)[3]/thead/tr/th")
-    public List<WebElement> colune;
+    public List<WebElement> hdr_tableColumns;
 
 
     public void validateResults(String element, String expected){
@@ -37,10 +37,10 @@ public class AccountSummaryPage extends BasePage{
                 Assert.assertEquals(expectedList, BrowserUtils.getElementsText(hdr_accountType));
                 break;
             case ConstantVariables.CREDIT_ACCOUNT:
-      Assert.assertEquals(expectedList, BrowserUtils.getElementsText(colune));
+      Assert.assertEquals(expectedList, BrowserUtils.getElementsText(hdr_tableColumns));
       break;
             default:
-                Assert.fail("ffffff");
+                Assert.fail("There is no such " + element + " in this switch statement");
         }
     }
 }

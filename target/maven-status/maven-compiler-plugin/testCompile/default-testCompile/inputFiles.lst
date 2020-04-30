@@ -1,0 +1,14 @@
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\LoginPage.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\ConstantVariables.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\BrowserUtils.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\BasePage.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\CommonMethod.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\AccountSummaryPage.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\ConfigurationReader.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\Driver.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\PageObjects.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\runner\CukesRunner.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\inputSteps.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\NavigationSteps.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\Hooks.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\AssertionSteps.java

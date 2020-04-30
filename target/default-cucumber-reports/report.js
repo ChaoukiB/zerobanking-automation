@@ -22,7 +22,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -42,7 +42,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -52,7 +52,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -62,17 +62,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
-  "name": "\"Title\" should contain \"Account summary\" on \"Account summary\" page",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -93,7 +83,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -113,7 +103,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -123,7 +113,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -133,7 +123,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -143,7 +133,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -164,7 +154,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -184,7 +174,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -194,7 +184,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -204,7 +194,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -214,7 +204,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -235,7 +225,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -255,7 +245,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -265,7 +255,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -275,7 +265,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -285,7 +275,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -306,7 +296,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -326,7 +316,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -336,7 +326,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -346,7 +336,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -356,7 +346,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -377,7 +367,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_is_on_page(java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -397,7 +387,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -407,7 +397,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.inputSteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -417,7 +407,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.NavigationSteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -427,7 +417,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "com.zerobank.stepdiffinitions.AssertionSteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
