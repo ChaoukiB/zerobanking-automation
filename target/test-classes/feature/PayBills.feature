@@ -6,7 +6,7 @@
       And user enters "password" as "user_password" on "Login" page
       And user clicks on "login" button on "Login" page
 
-    @smoke
+
     Scenario:Pay Bills page should have the title Zero – Pay	Bills
       When user navigates to "Pay Bills" page
       Then "Title" should contain "Zero - Pay Bills" on "Pay Bills" page
