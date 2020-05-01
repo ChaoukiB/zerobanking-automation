@@ -13,8 +13,8 @@ public class AccountSummaryStepDiff {
         pageNmae.validateResultsList(element, accountType);
     }
 
-    @Then("{string} table must have columns")
-    public void table_must_have_columns(String element,String  page ,List<String> tableColumns) {
+    @Then("{string} table must have following columns on {string} page")
+    public void table_must_have_following_columns_on_page(String element, String page, List<String> tableColumns) {
         BasePage pageName = PageObjects.getObject(page);
         pageName.validateResultsList(element,tableColumns);
     }

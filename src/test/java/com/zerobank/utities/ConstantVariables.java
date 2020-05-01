@@ -15,4 +15,6 @@ public class ConstantVariables {
     public static final String ACCOUNT_DROP_DOWN_DEFAULT_OPTION = "ACCOUNT DROP DOWN DEFAULT OPTION";
     public static final String ACCOUNT_DROP_DOWN = "ACCOUNT DROP DOWN";
     public static final String TRANSACTIONS = "TRANSACTIONS";
+    public static final String PAY_BILLS = "PAY BILLS";     //  successful pay
+    public static final String SUCCESSFUL_PAY = "SUCCESSFUL PAY";
 }

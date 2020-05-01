@@ -1,8 +1,11 @@
 package com.zerobank.pages;
 
 
+import com.zerobank.utities.ConfigurationReader;
 import com.zerobank.utities.ConstantVariables;
 import com.zerobank.utities.Driver;
+import com.zerobank.utities.PageObjects;
+import io.cucumber.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -25,6 +28,23 @@ public class LoginPage extends BasePage{
     @FindBy(xpath = "//form[@id='login_form']/div[@class='alert alert-error']")
     public WebElement  msg_error;
 
+
+    @When("user enters {string} as {string} on {string} page")
+    public void user_enters_as_on_page(String field, String value, String page) {
+
+        BasePage pageName = PageObjects.getObject(page);
+
+        if (value.equalsIgnoreCase("user_username")){
+            value = ConfigurationReader.getProperty("user_username");
+        }else  if (value.equalsIgnoreCase("user_password")){
+            value = ConfigurationReader.getProperty("user_password");
+        }
+
+        pageName.enterValue(field, value);
+
+    }
+
+    @Override
     public void enterValue(String field, String value){
         field = field.toUpperCase();
         switch (field){
@@ -36,8 +56,7 @@ public class LoginPage extends BasePage{
                 break;
             default:
                 Assert.fail("There is no such a " + field + " in this switch statement");
-        }
-    }
+        }}
     public void clickButton(String button){
         button = button.toUpperCase();
         switch (button){

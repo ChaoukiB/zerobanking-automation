@@ -1,10 +1,7 @@
 package com.zerobank.utities;
 
 
-import com.zerobank.pages.AccountActivityPage;
-import com.zerobank.pages.AccountSummaryPage;
-import com.zerobank.pages.BasePage;
-import com.zerobank.pages.LoginPage;
+import com.zerobank.pages.*;
 import org.junit.Assert;
 
 public class PageObjects {
@@ -20,7 +17,8 @@ public class PageObjects {
                 return new BasePage();
             case ConstantVariables.ACCOUNT_ACTIVITY:
                 return  new AccountActivityPage();
-
+            case ConstantVariables.PAY_BILLS:
+                return new PayBillsPage();
             default:
                 Assert.fail("There is no "+ pageName+"in this switch statement");
         }

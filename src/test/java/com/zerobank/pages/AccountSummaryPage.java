@@ -30,7 +30,7 @@ public class AccountSummaryPage extends BasePage{
        }
     }
 
-    public void validateResults(String element, List<String> expectedList){
+    public void validateResultsList(String element, List<String> expectedList){
         element = element.toUpperCase();
         switch (element){
             case ConstantVariables.ACCOUNT_TYPE:
