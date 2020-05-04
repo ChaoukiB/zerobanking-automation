@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feature",
         glue = "com/zerobank/stepdiffinitions",
         dryRun =false,
-        tags =  "@regression"
+        tags =  "@smoke"
 )
 public class CukesRunner {
 

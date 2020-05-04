@@ -29,20 +29,6 @@ public class LoginPage extends BasePage{
     public WebElement  msg_error;
 
 
-    @When("user enters {string} as {string} on {string} page")
-    public void user_enters_as_on_page(String field, String value, String page) {
-
-        BasePage pageName = PageObjects.getObject(page);
-
-        if (value.equalsIgnoreCase("user_username")){
-            value = ConfigurationReader.getProperty("user_username");
-        }else  if (value.equalsIgnoreCase("user_password")){
-            value = ConfigurationReader.getProperty("user_password");
-        }
-
-        pageName.enterValue(field, value);
-
-    }
 
     @Override
     public void enterValue(String field, String value){
