@@ -49,7 +49,7 @@
       |amount|
       | ss   |
       | **   |
-    @smoke
+
 Scenario: Date field should not	accept alphabetical characters.
   Then user enters "payee" as "bank of America" on "pay Bills" page
       And user enters "account" as "saving" on "pay bills" page

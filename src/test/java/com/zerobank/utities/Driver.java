@@ -31,6 +31,7 @@ public class Driver {
             // mvn test -Dcucumber.filter.tags=@regression -Dbrowser=remote-firefox
             String browser = System.getProperty("browser") != null ? System.getProperty("browser") : ConfigurationReader.getProperty("browser");
 
+            //String browser = ConfigurationReader.getProperty("browser");
             switch (browser) {
                 case "chrome":
                     WebDriverManager.chromedriver().setup();

@@ -39,7 +39,6 @@
 
     <build>
         <plugins>
-
             <!--                                                    // for running test cases only cucumber -->
             <plugin>
 
@@ -54,9 +53,9 @@
                     <testFailureIgnore>true</testFailureIgnore>
                     <runOrder>alphabetical</runOrder>
                     <parallel>methods</parallel>
-                    <threadCount>3</threadCount>
-                    <perCoreThreadCount>false</perCoreThreadCount>
-                    <forkCount>2C</forkCount>
+                    <threadCount>2</threadCount>
+<!--                    <perCoreThreadCount>false</perCoreThreadCount>-->
+<!--                    <forkCount>2C</forkCount>-->
                 </configuration>
             </plugin>
             <!--                                   //  for report-->
