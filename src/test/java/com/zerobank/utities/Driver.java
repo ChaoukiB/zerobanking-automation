@@ -1,6 +1,7 @@
 package com.zerobank.utities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -72,8 +73,9 @@ public class Driver {
 
                 case "remote-chrome":
                     try {
-                        URL url = new URL("http://3.89.246.123:4444/wd/hub");
+                        URL url = new URL("http://3.89.123.137:4444/wd/hub");
                         ChromeOptions chromeOptions = new ChromeOptions();
+                        //chromeOptions.setCapability("platform", Platform.WIN8);
                         driverPool.set(new RemoteWebDriver(url, chromeOptions));
                     } catch (MalformedURLException e) {
                         e.printStackTrace();
@@ -81,7 +83,7 @@ public class Driver {
                     break;
                 case "remote-firefox":
                     try {
-                        URL url = new URL("http://3.89.246.123:4444/wd/hub");
+                        URL url = new URL("http://3.89.123.137:4444/wd/hub");
                         FirefoxOptions firefoxOptions = new FirefoxOptions();
                         driverPool.set(new RemoteWebDriver(url, firefoxOptions));
                     } catch (MalformedURLException e) {

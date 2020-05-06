@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 353643000,
+              "duration": 420397000,
               "status": "passed"
             },
             "line": 5,
@@ -29,7 +29,7 @@
           },
           {
             "result": {
-              "duration": 100999200,
+              "duration": 90992600,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 82001600,
+              "duration": 73999600,
               "status": "passed"
             },
             "line": 7,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 314998800,
+              "duration": 417000600,
               "status": "passed"
             },
             "line": 8,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 237953100,
+              "duration": 310992400,
               "status": "passed"
             },
             "line": 9,
@@ -122,11 +122,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-05T20:00:55.678Z",
+        "start_timestamp": "2020-05-06T17:27:27.162Z",
         "before": [
           {
             "result": {
-              "duration": 5975729400,
+              "duration": 10800613000,
               "status": "passed"
             },
             "match": {
@@ -141,7 +141,7 @@
         "after": [
           {
             "result": {
-              "duration": 643152000,
+              "duration": 624005400,
               "status": "passed"
             },
             "match": {
@@ -154,7 +154,7 @@
         "steps": [
           {
             "result": {
-              "duration": 22999300,
+              "duration": 11009000,
               "status": "passed"
             },
             "line": 12,
@@ -197,7 +197,7 @@
         "steps": [
           {
             "result": {
-              "duration": 356000200,
+              "duration": 423999300,
               "status": "passed"
             },
             "line": 5,
@@ -215,7 +215,7 @@
           },
           {
             "result": {
-              "duration": 100000300,
+              "duration": 55999100,
               "status": "passed"
             },
             "line": 6,
@@ -241,7 +241,7 @@
           },
           {
             "result": {
-              "duration": 136999500,
+              "duration": 65001500,
               "status": "passed"
             },
             "line": 7,
@@ -267,7 +267,7 @@
           },
           {
             "result": {
-              "duration": 387996600,
+              "duration": 354998600,
               "status": "passed"
             },
             "line": 8,
@@ -289,7 +289,7 @@
           },
           {
             "result": {
-              "duration": 275121000,
+              "duration": 312015700,
               "status": "passed"
             },
             "line": 9,
@@ -308,11 +308,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-05T20:01:03.491Z",
+        "start_timestamp": "2020-05-06T17:27:39.995Z",
         "before": [
           {
             "result": {
-              "duration": 5208183200,
+              "duration": 5199997400,
               "status": "passed"
             },
             "match": {
@@ -327,7 +327,7 @@
         "after": [
           {
             "result": {
-              "duration": 605096900,
+              "duration": 645105200,
               "status": "passed"
             },
             "match": {
@@ -340,7 +340,7 @@
         "steps": [
           {
             "result": {
-              "duration": 87002400,
+              "duration": 138999000,
               "status": "passed"
             },
             "line": 16,
@@ -362,6 +362,406 @@
               ],
               "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
             },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 350975600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 67999700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 82000500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 349998800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 273000100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user navigates to \"Account Activity\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Activity\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T17:27:47.225Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5188049600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Account drop down should have the following options: Savings, Checking, Loan, Credit Card, Brokerage.",
+        "description": "",
+        "id": "account-activity-functionality;account-drop-down-should-have-the-following-options:-savings--checking--loan--credit-card--brokerage.",
+        "after": [
+          {
+            "result": {
+              "duration": 603001800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "\"Account drop down\" should contain the following information on \"Account Activity\" page",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "Savings"
+                ]
+              },
+              {
+                "cells": [
+                  "Checking"
+                ]
+              },
+              {
+                "cells": [
+                  "Loan"
+                ]
+              },
+              {
+                "cells": [
+                  "Credit Card"
+                ]
+              },
+              {
+                "cells": [
+                  "Brokerage"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 395000500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 71999200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86001500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 310999800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264008000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user navigates to \"Account Activity\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Activity\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T17:27:54.154Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5288997600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "Transactions table should have column names Date, Description, Deposit, Withdrawal.",
+        "description": "",
+        "id": "account-activity-functionality;transactions-table-should-have-column-names-date--description--deposit--withdrawal.",
+        "after": [
+          {
+            "result": {
+              "duration": 646999800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 117989700,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "\"Transactions\" table must have following columns on \"Account Activity\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Transactions\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Account Activity\"",
+                  "offset": 52
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.AccountSummaryStepDiff.table_must_have_following_columns_on_page(java.lang.String,java.lang.String,java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Date"
+                ]
+              },
+              {
+                "cells": [
+                  "Description"
+                ]
+              },
+              {
+                "cells": [
+                  "Deposit"
+                ]
+              },
+              {
+                "cells": [
+                  "Withdrawal"
+                ]
+              }
+            ],
             "keyword": "Then "
           }
         ],
@@ -403,7 +803,7 @@
         "steps": [
           {
             "result": {
-              "duration": 319402800,
+              "duration": 375991200,
               "status": "passed"
             },
             "line": 5,
@@ -422,11 +822,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-05T20:01:10.654Z",
+        "start_timestamp": "2020-05-06T17:28:01.342Z",
         "before": [
           {
             "result": {
-              "duration": 5190308400,
+              "duration": 5194009900,
               "status": "passed"
             },
             "match": {
@@ -441,7 +841,7 @@
         "after": [
           {
             "result": {
-              "duration": 595137200,
+              "duration": 612069900,
               "status": "passed"
             },
             "match": {
@@ -454,7 +854,7 @@
         "steps": [
           {
             "result": {
-              "duration": 72009000,
+              "duration": 77999800,
               "status": "passed"
             },
             "line": 18,
@@ -480,7 +880,7 @@
           },
           {
             "result": {
-              "duration": 92000400,
+              "duration": 70999400,
               "status": "passed"
             },
             "line": 19,
@@ -506,7 +906,7 @@
           },
           {
             "result": {
-              "duration": 176000200,
+              "duration": 172001900,
               "status": "passed"
             },
             "line": 20,
@@ -528,10 +928,346 @@
           },
           {
             "result": {
-              "duration": 57001000,
+              "duration": 63999800,
               "status": "passed"
             },
             "line": 21,
+            "name": "\"ErrorMessage\" should contain \"Login and/or password are wrong.\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"ErrorMessage\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Login and/or password are wrong.\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 68
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 381983600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T17:28:07.922Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5254382100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Users with valid username and wrong password should not be able to login.",
+        "description": "",
+        "id": "login-functionality;users-with-valid-username-and-wrong-password-should-not-be-able-to-login.",
+        "after": [
+          {
+            "result": {
+              "duration": 614546600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 69982200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 66000500,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user enters \"password\" as \"Na\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"Na\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 146022700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user clicks on \"Login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60997900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "\"ErrorMessage\" should contain \"Login and/or password are wrong.\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"ErrorMessage\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Login and/or password are wrong.\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 68
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 378018600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T17:28:14.524Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5185001300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Users with blank username and valid password should not be able to login.",
+        "description": "",
+        "id": "login-functionality;users-with-blank-username-and-valid-password-should-not-be-able-to-login.",
+        "after": [
+          {
+            "result": {
+              "duration": 622993600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44995200,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user enters \"username\" as \"\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86952500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171999300,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user clicks on \"Login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 76007800,
+              "status": "passed"
+            },
+            "line": 35,
             "name": "\"ErrorMessage\" should contain \"Login and/or password are wrong.\" on \"Login\" page",
             "match": {
               "arguments": [

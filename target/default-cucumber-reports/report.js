@@ -177,6 +177,185 @@ formatter.result({
 formatter.after({
   "status": "passed"
 });
+formatter.background({
+  "name": "",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user is on \"Login\" page",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on \"login\" button on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user navigates to \"Account Activity\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Account drop down should have the following options: Savings, Checking, Loan, Credit Card, Brokerage.",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    },
+    {
+      "name": "@smoke"
+    }
+  ]
+});
+formatter.step({
+  "name": "\"Account drop down\" should contain the following information on \"Account Activity\" page",
+  "rows": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "keyword": "Then "
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.background({
+  "name": "",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user is on \"Login\" page",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on \"login\" button on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user navigates to \"Account Activity\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Transactions table should have column names Date, Description, Deposit, Withdrawal.",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    },
+    {
+      "name": "@smoke"
+    }
+  ]
+});
+formatter.step({
+  "name": "\"Transactions\" table must have following columns on \"Account Activity\" page",
+  "rows": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.AccountSummaryStepDiff.table_must_have_following_columns_on_page(java.lang.String,java.lang.String,java.util.List\u003cjava.lang.String\u003e)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 formatter.uri("file:src/test/resources/feature/Login.feature");
 formatter.feature({
   "name": "Login functionality",
@@ -221,6 +400,154 @@ formatter.scenario({
 });
 formatter.step({
   "name": "user enters \"username\" as \"chaouki\" on \"Login\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on \"Login\" button on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "\"ErrorMessage\" should contain \"Login and/or password are wrong.\" on \"Login\" page",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.background({
+  "name": "",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user is on \"Login\" page",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Users with valid username and wrong password should not be able to login.",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    },
+    {
+      "name": "@smoke"
+    }
+  ]
+});
+formatter.step({
+  "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user enters \"password\" as \"Na\" on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user clicks on \"Login\" button on \"Login\" page",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "\"ErrorMessage\" should contain \"Login and/or password are wrong.\" on \"Login\" page",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.background({
+  "name": "",
+  "description": "",
+  "keyword": "Background"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.step({
+  "name": "user is on \"Login\" page",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "Users with blank username and valid password should not be able to login.",
+  "description": "",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "name": "@regression"
+    },
+    {
+      "name": "@smoke"
+    }
+  ]
+});
+formatter.step({
+  "name": "user enters \"username\" as \"\" on \"Login\" page",
   "keyword": "When "
 });
 formatter.match({

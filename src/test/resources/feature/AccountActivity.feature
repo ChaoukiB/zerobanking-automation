@@ -15,7 +15,7 @@ Feature: Account activity functionality
   Scenario: The Account drop down default option should be Savings.
     Then "Account drop down default option" should contain "Savings" on "Account Activity" page
 
-
+  @smoke
   Scenario: Account drop down should have the following options: Savings, Checking, Loan, Credit Card, Brokerage.
     Then "Account drop down" should contain the following information on "Account Activity" page
       | Savings     |
@@ -24,7 +24,7 @@ Feature: Account activity functionality
       | Credit Card |
       | Brokerage   |
 
-
+  @smoke
   Scenario: Transactions table should have column names Date, Description, Deposit, Withdrawal.
     Then "Transactions" table must have following columns on "Account Activity" page
       | Date        |

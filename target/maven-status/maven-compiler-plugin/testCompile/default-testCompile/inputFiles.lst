@@ -2,6 +2,8 @@ C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\ConstantVariables.java
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\BrowserUtils.java
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\AccountSummaryStepDiff.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\stepdiffinitions\AccountActivityNavigationSteps.java
+C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\OnlineBillsPage.java
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\BasePage.java
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\pages\PayBillsPage.java
 C:\Users\Chaouki\IdeaProjects\zeroBanking_automation\src\test\java\com\zerobank\utities\CommonMethod.java
