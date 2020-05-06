@@ -73,7 +73,7 @@ public class Driver {
 
                 case "remote-chrome":
                     try {
-                        URL url = new URL("http://3.89.123.137:4444/wd/hub");
+                        URL url = new URL("http://52.91.27.248:4444/wd/hub");
                         ChromeOptions chromeOptions = new ChromeOptions();
                         //chromeOptions.setCapability("platform", Platform.WIN8);
                         driverPool.set(new RemoteWebDriver(url, chromeOptions));
@@ -83,7 +83,7 @@ public class Driver {
                     break;
                 case "remote-firefox":
                     try {
-                        URL url = new URL("http://3.89.123.137:4444/wd/hub");
+                        URL url = new URL("http://52.91.27.248:4444/wd/hub");
                         FirefoxOptions firefoxOptions = new FirefoxOptions();
                         driverPool.set(new RemoteWebDriver(url, firefoxOptions));
                     } catch (MalformedURLException e) {

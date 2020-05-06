@@ -1,4 +1,4 @@
-
+@smoke
   Feature: Pay Bills
     Background:
       Given user is on "Login" page
