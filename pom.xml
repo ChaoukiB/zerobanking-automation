@@ -53,7 +53,7 @@
                     <testFailureIgnore>true</testFailureIgnore>
                     <runOrder>alphabetical</runOrder>
                     <parallel>methods</parallel>
-                    <threadCount></threadCount>
+                    <threadCount>2</threadCount>
 <!--                    <perCoreThreadCount>false</perCoreThreadCount>-->
 <!--                    <forkCount>2C</forkCount>-->
                 </configuration>

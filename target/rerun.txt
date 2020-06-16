@@ -1,1 +1,2 @@
+file:src/test/resources/feature/AccountSummary.feature:13
 file:src/test/resources/feature/AccountActivity.feature:19

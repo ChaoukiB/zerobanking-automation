@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 395901000,
+              "duration": 424102700,
               "status": "passed"
             },
             "line": 5,
@@ -29,7 +29,7 @@
           },
           {
             "result": {
-              "duration": 232011500,
+              "duration": 353363300,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 168998900,
+              "duration": 202096000,
               "status": "passed"
             },
             "line": 7,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 362005900,
+              "duration": 561216700,
               "status": "passed"
             },
             "line": 8,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 321014800,
+              "duration": 400461700,
               "status": "passed"
             },
             "line": 9,
@@ -122,11 +122,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:03.887Z",
+        "start_timestamp": "2020-05-06T18:20:39.063Z",
         "before": [
           {
             "result": {
-              "duration": 3307996700,
+              "duration": 4096342100,
               "status": "passed"
             },
             "match": {
@@ -141,7 +141,7 @@
         "after": [
           {
             "result": {
-              "duration": 75989900,
+              "duration": 77000300,
               "status": "passed"
             },
             "match": {
@@ -154,7 +154,7 @@
         "steps": [
           {
             "result": {
-              "duration": 38963900,
+              "duration": 37999600,
               "status": "passed"
             },
             "line": 12,
@@ -185,6 +185,9 @@
           },
           {
             "name": "@smoke"
+          },
+          {
+            "name": "@smoke"
           }
         ]
       },
@@ -197,7 +200,7 @@
         "steps": [
           {
             "result": {
-              "duration": 312014200,
+              "duration": 438989800,
               "status": "passed"
             },
             "line": 5,
@@ -215,7 +218,7 @@
           },
           {
             "result": {
-              "duration": 156986700,
+              "duration": 371409400,
               "status": "passed"
             },
             "line": 6,
@@ -241,7 +244,7 @@
           },
           {
             "result": {
-              "duration": 167018100,
+              "duration": 196955200,
               "status": "passed"
             },
             "line": 7,
@@ -267,7 +270,7 @@
           },
           {
             "result": {
-              "duration": 311980300,
+              "duration": 697980900,
               "status": "passed"
             },
             "line": 8,
@@ -289,7 +292,7 @@
           },
           {
             "result": {
-              "duration": 362001800,
+              "duration": 458368500,
               "status": "passed"
             },
             "line": 9,
@@ -308,11 +311,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:08.867Z",
+        "start_timestamp": "2020-05-06T18:20:45.279Z",
         "before": [
           {
             "result": {
-              "duration": 1216000500,
+              "duration": 3584403200,
               "status": "passed"
             },
             "match": {
@@ -327,7 +330,7 @@
         "after": [
           {
             "result": {
-              "duration": 75997600,
+              "duration": 78999300,
               "status": "passed"
             },
             "match": {
@@ -340,7 +343,7 @@
         "steps": [
           {
             "result": {
-              "duration": 322010600,
+              "duration": 371219200,
               "status": "passed"
             },
             "line": 16,
@@ -371,6 +374,9 @@
           },
           {
             "name": "@smoke"
+          },
+          {
+            "name": "@smoke"
           }
         ]
       },
@@ -383,7 +389,7 @@
         "steps": [
           {
             "result": {
-              "duration": 522999900,
+              "duration": 376459400,
               "status": "passed"
             },
             "line": 5,
@@ -401,7 +407,7 @@
           },
           {
             "result": {
-              "duration": 152997500,
+              "duration": 217048000,
               "status": "passed"
             },
             "line": 6,
@@ -427,7 +433,7 @@
           },
           {
             "result": {
-              "duration": 145074900,
+              "duration": 159195900,
               "status": "passed"
             },
             "line": 7,
@@ -453,7 +459,7 @@
           },
           {
             "result": {
-              "duration": 344997700,
+              "duration": 406218800,
               "status": "passed"
             },
             "line": 8,
@@ -475,7 +481,7 @@
           },
           {
             "result": {
-              "duration": 294018800,
+              "duration": 357606400,
               "status": "passed"
             },
             "line": 9,
@@ -494,11 +500,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:11.819Z",
+        "start_timestamp": "2020-05-06T18:20:51.505Z",
         "before": [
           {
             "result": {
-              "duration": 886002600,
+              "duration": 1786669600,
               "status": "passed"
             },
             "match": {
@@ -513,7 +519,7 @@
         "after": [
           {
             "result": {
-              "duration": 76910700,
+              "duration": 75924200,
               "status": "passed"
             },
             "match": {
@@ -567,6 +573,9 @@
           },
           {
             "name": "@smoke"
+          },
+          {
+            "name": "@smoke"
           }
         ]
       },
@@ -579,7 +588,7 @@
         "steps": [
           {
             "result": {
-              "duration": 292058700,
+              "duration": 394729200,
               "status": "passed"
             },
             "line": 5,
@@ -597,7 +606,7 @@
           },
           {
             "result": {
-              "duration": 161023000,
+              "duration": 286648900,
               "status": "passed"
             },
             "line": 6,
@@ -623,7 +632,7 @@
           },
           {
             "result": {
-              "duration": 139990900,
+              "duration": 181304500,
               "status": "passed"
             },
             "line": 7,
@@ -649,7 +658,7 @@
           },
           {
             "result": {
-              "duration": 301016800,
+              "duration": 392975600,
               "status": "passed"
             },
             "line": 8,
@@ -671,7 +680,7 @@
           },
           {
             "result": {
-              "duration": 406982900,
+              "duration": 331751600,
               "status": "passed"
             },
             "line": 9,
@@ -690,11 +699,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:14.257Z",
+        "start_timestamp": "2020-05-06T18:20:54.903Z",
         "before": [
           {
             "result": {
-              "duration": 833014200,
+              "duration": 1551482500,
               "status": "passed"
             },
             "match": {
@@ -709,7 +718,7 @@
         "after": [
           {
             "result": {
-              "duration": 78000100,
+              "duration": 84073700,
               "status": "passed"
             },
             "match": {
@@ -722,7 +731,7 @@
         "steps": [
           {
             "result": {
-              "duration": 194998000,
+              "duration": 203988800,
               "status": "passed"
             },
             "line": 29,
@@ -771,6 +780,9 @@
           },
           {
             "name": "@smoke"
+          },
+          {
+            "name": "@smoke"
           }
         ]
       }
@@ -783,6 +795,547 @@
     "tags": [
       {
         "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@smoke",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 15
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 411897600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 222375200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 283041800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 621131500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:20:58.345Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1668153200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Account\tsummary\tpage\tshould\thave\tthe\ttitle\tZero– Account\tsummary",
+        "description": "",
+        "id": "account-summary-functionality;account-summary-page-should-have-the-title-zero–-account-summary",
+        "after": [
+          {
+            "result": {
+              "duration": 83920900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 34077200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "\"Title\" should contain \"Zero - Account Summary\" on \"Account Summary\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Title\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Zero - Account Summary\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Account Summary\"",
+                  "offset": 51
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 508920700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 232000500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 158000800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 457283000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:01.683Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2260547100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Account summary\tpage should\thave to\tfollowing\taccount\ttypes:",
+        "description": "",
+        "id": "account-summary-functionality;account-summary-page-should-have-to-following-account-types:",
+        "after": [
+          {
+            "result": {
+              "duration": 103001100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "\"Account type\" should contain the following information on \"Account Summary\" page",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "Cash Accounts"
+                ]
+              },
+              {
+                "cells": [
+                  "Investment Accounts"
+                ]
+              },
+              {
+                "cells": [
+                  "Credit Accounts"
+                ]
+              },
+              {
+                "cells": [
+                  "Loan Accounts"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 395056200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 181302000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 158925300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 399112900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:05.409Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2161261200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Credit\tAccounts table\tmust\thave\tcolumns Account,",
+        "description": "",
+        "id": "account-summary-functionality;credit-accounts-table-must-have-columns-account-",
+        "after": [
+          {
+            "result": {
+              "duration": 76223400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 175885800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "\"Credit Accounts\" table must have following columns on \"Account summary\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Credit Accounts\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Account summary\"",
+                  "offset": 55
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.AccountSummaryStepDiff.table_must_have_following_columns_on_page(java.lang.String,java.lang.String,java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Account"
+                ]
+              },
+              {
+                "cells": [
+                  "Credit Card"
+                ]
+              },
+              {
+                "cells": [
+                  "Balance"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Account Summary Functionality",
+    "description": "",
+    "id": "account-summary-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/feature/AccountSummary.feature",
+    "tags": [
+      {
+        "name": "@smoke",
         "type": "Tag",
         "location": {
           "line": 1,
@@ -803,7 +1356,7 @@
         "steps": [
           {
             "result": {
-              "duration": 292993000,
+              "duration": 515106100,
               "status": "passed"
             },
             "line": 5,
@@ -822,11 +1375,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:16.670Z",
+        "start_timestamp": "2020-05-06T18:21:08.960Z",
         "before": [
           {
             "result": {
-              "duration": 831013100,
+              "duration": 1677383900,
               "status": "passed"
             },
             "match": {
@@ -841,7 +1394,7 @@
         "after": [
           {
             "result": {
-              "duration": 80996600,
+              "duration": 81051800,
               "status": "passed"
             },
             "match": {
@@ -854,7 +1407,7 @@
         "steps": [
           {
             "result": {
-              "duration": 134009000,
+              "duration": 196709200,
               "status": "passed"
             },
             "line": 18,
@@ -880,7 +1433,7 @@
           },
           {
             "result": {
-              "duration": 162999500,
+              "duration": 161979000,
               "status": "passed"
             },
             "line": 19,
@@ -906,7 +1459,7 @@
           },
           {
             "result": {
-              "duration": 293119200,
+              "duration": 297127400,
               "status": "passed"
             },
             "line": 20,
@@ -928,7 +1481,7 @@
           },
           {
             "result": {
-              "duration": 233005100,
+              "duration": 251081300,
               "status": "passed"
             },
             "line": 21,
@@ -971,7 +1524,7 @@
         "steps": [
           {
             "result": {
-              "duration": 289005000,
+              "duration": 394938600,
               "status": "passed"
             },
             "line": 5,
@@ -990,11 +1543,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:18.713Z",
+        "start_timestamp": "2020-05-06T18:21:12.154Z",
         "before": [
           {
             "result": {
-              "duration": 814033600,
+              "duration": 1573509000,
               "status": "passed"
             },
             "match": {
@@ -1009,7 +1562,7 @@
         "after": [
           {
             "result": {
-              "duration": 77999600,
+              "duration": 74993100,
               "status": "passed"
             },
             "match": {
@@ -1022,7 +1575,7 @@
         "steps": [
           {
             "result": {
-              "duration": 169964200,
+              "duration": 209929900,
               "status": "passed"
             },
             "line": 25,
@@ -1048,7 +1601,7 @@
           },
           {
             "result": {
-              "duration": 132000900,
+              "duration": 140999200,
               "status": "passed"
             },
             "line": 26,
@@ -1074,7 +1627,7 @@
           },
           {
             "result": {
-              "duration": 227001100,
+              "duration": 317077900,
               "status": "passed"
             },
             "line": 27,
@@ -1096,7 +1649,7 @@
           },
           {
             "result": {
-              "duration": 217001500,
+              "duration": 247366000,
               "status": "passed"
             },
             "line": 28,
@@ -1139,7 +1692,7 @@
         "steps": [
           {
             "result": {
-              "duration": 276997300,
+              "duration": 403048700,
               "status": "passed"
             },
             "line": 5,
@@ -1158,11 +1711,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-05-06T17:42:20.647Z",
+        "start_timestamp": "2020-05-06T18:21:15.121Z",
         "before": [
           {
             "result": {
-              "duration": 877998800,
+              "duration": 1797145000,
               "status": "passed"
             },
             "match": {
@@ -1177,7 +1730,7 @@
         "after": [
           {
             "result": {
-              "duration": 74007800,
+              "duration": 74011200,
               "status": "passed"
             },
             "match": {
@@ -1190,7 +1743,7 @@
         "steps": [
           {
             "result": {
-              "duration": 95000800,
+              "duration": 130074000,
               "status": "passed"
             },
             "line": 32,
@@ -1216,7 +1769,7 @@
           },
           {
             "result": {
-              "duration": 158002100,
+              "duration": 195010200,
               "status": "passed"
             },
             "line": 33,
@@ -1242,7 +1795,7 @@
           },
           {
             "result": {
-              "duration": 240002200,
+              "duration": 268365500,
               "status": "passed"
             },
             "line": 34,
@@ -1264,7 +1817,7 @@
           },
           {
             "result": {
-              "duration": 202999600,
+              "duration": 231957000,
               "status": "passed"
             },
             "line": 35,
@@ -1307,6 +1860,2218 @@
     "tags": [
       {
         "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 420294100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211110500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 279197200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 676697500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 399860100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:18.233Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1794425200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Pay Bills page should have the title Zero – Pay\tBills",
+        "description": "",
+        "id": "pay-bills;pay-bills-page-should-have-the-title-zero-–-pay-bills",
+        "after": [
+          {
+            "result": {
+              "duration": 75047900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26979000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "\"Title\" should contain \"Zero - Pay Bills\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Title\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Zero - Pay Bills\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 435281500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 203028100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 154132200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 477265400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 322611000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:22.132Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2522045000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "When user completes\ta successful Pay operation, The\tpayment\twas\tsuccessfully submitted",
+        "description": "",
+        "id": "pay-bills;when-user-completes-a-successful-pay-operation--the-payment-was-successfully-submitted",
+        "after": [
+          {
+            "result": {
+              "duration": 77120200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2908400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user enters \"payee\" as \"Bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"Bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 999700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user enters \"account\" as \"Savings\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"Savings\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 38
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 153280800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user enters \"amount\" as \"10\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"10\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 224077700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user enters \"date\" as \"2020-05-05\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"2020-05-05\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 38
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 171084200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 295006200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 82350700,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "\"Message\" should contain \"The payment was successfully submitted.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"The payment was successfully submitted.\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 70
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 374255000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 322341100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 162321800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 552919300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 336016800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:27.266Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2114039800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "When user\ttries to make a\tpayment\twithout\tentering the amount\tor date,",
+        "description": "        Please fill out\tthis field message! should be displayed.",
+        "id": "pay-bills;when-user-tries-to-make-a-payment-without-entering-the-amount-or-date-;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 89000700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1930100,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user enters \"payee\" as \"bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 929200,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user enters \"account\" as \"saving\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"saving\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133425700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user enters \"amount\" as \"\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 263241500,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user enters \"date\" as \"2020-05-05\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"2020-05-05\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 38
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169337100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 249036600,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141999100,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "\"Amount empty field message\" should contain \"Please fill out this field.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Amount empty field message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Please fill out this field.\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 77
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 408476800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 220010800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171920800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 495256300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 368326400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:32.190Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2385322700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "When user\ttries to make a\tpayment\twithout\tentering the amount\tor date,",
+        "description": "        Please fill out\tthis field message! should be displayed.",
+        "id": "pay-bills;when-user-tries-to-make-a-payment-without-entering-the-amount-or-date-;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 78946100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3083100,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user enters \"payee\" as \"bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 991700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user enters \"account\" as \"saving\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"saving\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164040500,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user enters \"amount\" as \"20\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"20\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169005900,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user enters \"date\" as \"\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 28
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169573100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 212094200,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 127964900,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "\"Date empty field message\" should contain \"Please fill out this field.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Date empty field message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Please fill out this field.\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 75
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 372039600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 294323900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 161295400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 481007000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 307002200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:37.173Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2216749100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 50,
+        "name": "Amount field should\tnot\taccept alphabetical\tor special characters. Date\tfield should",
+        "description": "          not accept alphabetical characters.",
+        "id": "pay-bills;amount-field-should-not-accept-alphabetical-or-special-characters.-date-field-should;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 77998100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1995300,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user enters \"payee\" as \"bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "user enters \"account\" as \"saving\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"saving\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 157005400,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user enters \"amount\" as \"ss\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"ss\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 234566400,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "user enters \"date\" as \"2020-05-05\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"2020-05-05\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 38
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 182985400,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 286214800,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75997700,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "\"After payment message\" shouldn\u0027t contain \"The payment was successfully submitted.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"After payment message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"The payment was successfully submitted.\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 87
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 442217100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 206927500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 177045000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 556084500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 418051100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:42.032Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2084804100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 51,
+        "name": "Amount field should\tnot\taccept alphabetical\tor special characters. Date\tfield should",
+        "description": "          not accept alphabetical characters.",
+        "id": "pay-bills;amount-field-should-not-accept-alphabetical-or-special-characters.-date-field-should;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 157000200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1950400,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user enters \"payee\" as \"bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 974900,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "user enters \"account\" as \"saving\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"saving\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 221128000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user enters \"amount\" as \"**\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"**\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 277541100,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "user enters \"date\" as \"2020-05-05\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"2020-05-05\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 38
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 279009800,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264993200,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79024300,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "\"After payment message\" shouldn\u0027t contain \"The payment was successfully submitted.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"After payment message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"The payment was successfully submitted.\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 87
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 530314100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login\"",
+                  "offset": 11
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 263497100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters \"username\" as \"user_username\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_username\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 263568900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters \"password\" as \"user_password\" on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"user_password\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 575456000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on \"login\" button on \"Login\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"login\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"Login\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 331478300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigates to \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.NavigationStep.user_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-06T18:21:47.206Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2116637100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 53,
+        "name": "Date field should not\taccept alphabetical characters.",
+        "description": "",
+        "id": "pay-bills;date-field-should-not-accept-alphabetical-characters.",
+        "after": [
+          {
+            "result": {
+              "duration": 81020500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdiffinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1991600,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "user enters \"payee\" as \"bank of America\" on \"pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"payee\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"bank of America\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"pay Bills\"",
+                  "offset": 44
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1032400,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "user enters \"account\" as \"saving\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"account\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"saving\"",
+                  "offset": 25
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 182041000,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "user enters \"amount\" as \"10\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amount\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"10\"",
+                  "offset": 24
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 32
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 170888800,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "user enters \"date\" as \"sss\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"date\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"sss\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169017500,
+              "status": "passed"
+            },
+            "line": 58,
+            "name": "user enters \"description\" as \"hello\" on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"description\"",
+                  "offset": 12
+                },
+                {
+                  "val": "\"hello\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_enters_as_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 216038200,
+              "status": "passed"
+            },
+            "line": 59,
+            "name": "user clicks on \"pay\" button on \"pay bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"pay\"",
+                  "offset": 15
+                },
+                {
+                  "val": "\"pay bills\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.user_clicks_on_button_on_page(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 100017300,
+              "status": "passed"
+            },
+            "line": 60,
+            "name": "\"Date empty field message\" should contain \"Please fill out this field.\" on \"Pay Bills\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Date empty field message\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"Please fill out this field.\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"Pay Bills\"",
+                  "offset": 75
+                }
+              ],
+              "location": "com.zerobank.stepdiffinitions.LoginFunctionalitySteps.should_contain_on_page(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Pay Bills",
+    "description": "",
+    "id": "pay-bills",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/feature/PayBills.feature",
+    "tags": [
+      {
+        "name": "@smoke",
         "type": "Tag",
         "location": {
           "line": 1,
