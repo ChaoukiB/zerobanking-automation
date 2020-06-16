@@ -1,4 +1,4 @@
-@regression   @smoke
+@regression
 Feature: Account activity functionality
 
   Background:
@@ -7,15 +7,15 @@ Feature: Account activity functionality
     And user enters "password" as "user_password" on "Login" page
     And user clicks on "login" button on "Login" page
     When user navigates to "Account Activity" page
-  @smoke
+
   Scenario: Account Activity page should have the title Zero – Account activity.
     Then "Title" should contain "Zero - Account Activity" on "Account Activity" page
 
-  @smoke
+
   Scenario: The Account drop down default option should be Savings.
     Then "Account drop down default option" should contain "Savings" on "Account Activity" page
 
-  @smoke
+  @jira
   Scenario: Account drop down should have the following options: Savings, Checking, Loan, Credit Card, Brokerage.
     Then "Account drop down" should contain the following information on "Account Activity" page
       | Savings     |
@@ -24,7 +24,7 @@ Feature: Account activity functionality
       | Credit Card |
       | Brokerage   |
 
-  @smoke
+
   Scenario: Transactions table should have column names Date, Description, Deposit, Withdrawal.
     Then "Transactions" table must have following columns on "Account Activity" page
       | Date        |
