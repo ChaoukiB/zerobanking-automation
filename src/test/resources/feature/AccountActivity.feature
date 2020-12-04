@@ -15,7 +15,7 @@ Feature: Account activity functionality
   Scenario: The Account drop down default option should be Savings.
     Then "Account drop down default option" should contain "Savings" on "Account Activity" page
 
-
+  @jira
   Scenario: Account drop down should have the following options: Savings, Checking, Loan, Credit Card, Brokerage.
     Then "Account drop down" should contain the following information on "Account Activity" page
       | Savings     |

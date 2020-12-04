@@ -1,4 +1,4 @@
-@smoke
+
 Feature: Account Summary Functionality
 Background:
   Given user is on "login" page

@@ -9,7 +9,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class LoginFunctionalitySteps {
-    @Then("{string} should contain {string} on {string} page")
+    @Then("{string} should/shouldn't contain {string} on {string} page")
     public void should_contain_on_page(String element, String expected, String page) {
         BasePage pageName = PageObjects.getObject(page);
         pageName.validateResults(element, expected);
@@ -36,7 +36,7 @@ public class LoginFunctionalitySteps {
         Driver.getDriver().get(ConfigurationReader.getProperty("url"));
     }
 
-    @When("user clicks on {string} button on {string} page")
+    @When("user clicks on {string} button/link on {string} page")
     public void user_clicks_on_button_on_page(String button, String page) {
         BasePage pageName = PageObjects.getObject(page);
         pageName.clickButton(button);

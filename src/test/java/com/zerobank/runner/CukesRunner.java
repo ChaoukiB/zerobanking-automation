@@ -5,6 +5,7 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
+        strict = true ,
         plugin ={
                 "pretty",
                 "html:target/default-cucumber-reports",
@@ -15,7 +16,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feature",
         glue = "com/zerobank/stepdiffinitions",
         dryRun =false,
-        tags =  "@regression"
+        tags =  "@jira"
 )
 public class CukesRunner {
 

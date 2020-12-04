@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: Login functionality
+Test set: Account activity functionality
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.885 s - in Login functionality
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.485 s - in Account activity functionality

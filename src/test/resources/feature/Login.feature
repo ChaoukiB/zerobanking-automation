@@ -12,21 +12,21 @@ Feature: Login functionality
     And user clicks on "Login" button on "Login" page
 #    Then "Title" should contain "Account summary" on "Account summary" page
 
-
+  @smoke
   Scenario: Users with wrong username and valid password should not be able to login.
 
     When user enters "username" as "chaouki" on "Login" page
     And user enters "password" as "user_password" on "Login" page
     And user clicks on "Login" button on "Login" page
     Then "ErrorMessage" should contain "Login and/or password are wrong." on "Login" page
-
+  @smoke
   Scenario: Users with valid username and wrong password should not be able to login.
 
     When user enters "username" as "user_username" on "Login" page
     And user enters "password" as "Na" on "Login" page
     And user clicks on "Login" button on "Login" page
     Then "ErrorMessage" should contain "Login and/or password are wrong." on "Login" page
-
+  @smoke
   Scenario: Users with blank username and valid password should not be able to login.
 
     When user enters "username" as "" on "Login" page
