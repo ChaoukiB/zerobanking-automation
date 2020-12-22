@@ -4,7 +4,7 @@ Feature: Login functionality
   Background:
     Given user is on "Login" page
 
-
+#chaouki
   Scenario: Only authorized users should be able to login to the application.
 
   When user enters "username" as "user_username" on "Login" page
