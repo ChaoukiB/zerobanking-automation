@@ -1,10 +1,10 @@
-@regression
+@regression    @smoke
 Feature: Login functionality
 
   Background:
     Given user is on "Login" page
 
-
+#chaouki
   Scenario: Only authorized users should be able to login to the application.
 
   When user enters "username" as "user_username" on "Login" page
@@ -87,3 +87,10 @@ Feature: Login functionality
 #    When user enters "password" as "" on "login" page
 #    And user clicks on "login" button on "login" page
 #    Then "Login and/or password are wrong." should be display
+
+  #new new
+  #test1
+  # not spposet to see in cha
+
+
+  #this branch is chaouki not sppose to see it in other branches
