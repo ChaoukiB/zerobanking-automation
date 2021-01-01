@@ -59,3 +59,4 @@ Scenario: Date field should not	accept alphabetical characters.
       And user clicks on "pay" button on "pay bills" page
       Then "Date empty field message" should contain "Please fill out this field." on "Pay Bills" page
 # from test 1
+# from test 2
